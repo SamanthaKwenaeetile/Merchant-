@@ -42,6 +42,6 @@ Hence the choice of colour scheme, layout, and typography.
 ---
 ## COLOUR SCHEME AND TYPOGRAPHY
 # Font style 
-- Rajdhani Will be used throw out the site.
+⋅⋅* Rajdhani Will be used throw out the site.
 # COLOUR SCHEME
 ![Colour Scheme ](../docs/colorscheme.png "Image of the colour scheme colours for the Merchant Hotel ")
