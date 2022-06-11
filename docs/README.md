@@ -33,6 +33,20 @@ ___
 * As an event organiser I want to know if hotel caters for social events like weddings or birthdays etc
 
 ---
+## User Goal
+The user of the site would be able to book one or more guests for a stay at the Merchant Hotel on a particular time and date.
+
+---
+## Site Goal
+The site owner will be able to takr online bookings from customers for the hotel.
+
+---
+## Features Of The Merchant Hotel
+1. Date/Time-based bookings so customers can booking whatever day any time they would like to vist the hotel.
+2. Avoid double bookings to stop the mistake of doubel booking customers for the same room or same date and time at the restaurant.
+3. Cancellations incause a customer has to canel thier stay with us.
+4. Restaurant Menu for customers to view before they vist the hotel
+---
 
 ## DESIGN PHILOSOPHY
 Overall design philosophy is influence mainly by the user and client stories and by the fact that
@@ -42,6 +56,52 @@ Hence the choice of colour scheme, layout, and typography.
 ---
 ## COLOUR SCHEME AND TYPOGRAPHY
 # Font style 
-⋅⋅* Rajdhani Will be used throw out the site.
+* Poppins paired with Roboto imported from [Google Fonts](https://fonts.google.com/)
 # COLOUR SCHEME
 ![Colour Scheme ](../docs/colorscheme.png "Image of the colour scheme colours for the Merchant Hotel ")
+
+---
+## WIREFRAMES
+Initial wireframes were made using [Whimsical] (https://whimsical.com/)
+
+
+## INDEX.HTML(HOME)
+
+![Meun wireframe](../)
+
+## ROOMS.HTML
+
+![Rooms wireframe](../)
+
+## About.HTML
+
+![About wireframe](../)
+
+## CONTACT.HTML
+
+![Contact us wireframe](../)
+
+## Restaurant.HTML
+![Restaurant wireframe](../)
+
+---
+
+## TECH STACK
+
+ HTML, CSS, JavaScript, Python+Django, FONT AWESOME, POPPER JS, GITHUB, GITPOD, 
+ 
+---
+
+## CODE CREDITS
+
+Code for embeded google map obtined as is from Google Maps
+
+---
+
+## MEDIA CREDITS
+Logo was created using free templates from canva.com
+Most icons were from Font Awesome except for a couple from Google Icons 
+All images were from [pexels.com](https://www.pexels.com/) 
+All video's were from [Merchant Hotel] (https://www.themerchanthotel.com/)
+
+Individual credits: 
